@@ -32,3 +32,20 @@ Public social sources: https://www.instagram.com/fmstudiostx/ and https://www.fa
 
 Official embed references: https://help.instagram.com/620154495870484/ and https://developers.facebook.com/documentation/plugins/page-plugin
 
+
+Audit corrections and final verification, October 23, 2026:
+
+- Completed the initial independent Claude review and a second source review. Addressed the remaining actionable preview findings from both passes. The original brand palette and logo artwork remain unchanged.
+- Clarified primary trial-booking actions and inquiry paths; expanded instrument-specific guidance and related links; added all-instrument discovery, studio directions, and the in-home path from trial booking.
+- Corrected nested 404 asset and navigation paths, keyboard menu behavior, heading hierarchy, current-section navigation, biography link names, and new-tab announcements.
+- Raised small text to at least 12px, corrected gray-panel text and hover contrast, strengthened form boundaries, and removed presentation-only emphasis markup.
+- Replaced the cropped banner with a school photograph suited to the hero. Reduced the delivered logo from 65,474 bytes to 5,778 bytes, created square padded icons, and removed the unused large logo from the published folder while retaining the original in assets/. Teacher image requests are 1000w. Font loading uses head links and preconnects.
+- Feedback now persists locally, provides a visible agency address, supports copy and clear, and prepares an email without sending it. Long notes use a clearly labelled paste fallback once the complete mailto URL would exceed 1,800 characters. Line endings use CRLF. Storage failures are described accurately.
+- Moved older-program confirmation language into the owner checklist. Current roster, availability, prices, Strings Lab details and photo permissions remain owner confirmations, not assumed facts. Production tracking and deployment remain outside this preview.
+- Final local validation: 21 pages, 901 link/asset references, zero missing internal destinations or heading errors. JavaScript syntax check passed.
+- Final hosted validation: all 21 pages at desktop and phone dimensions (42 observations) have one H1, expected preview titles, v7 assets, noindex metadata, and no horizontal overflow. Selected instrument, trial, review and team pages also passed 640px and 768px tablet checks. The phone hero crop was visually checked at 375px.
+- Exercised feedback copy, persistence across reload, clear and empty-state validation, and long-note fallback. Test notes were removed. Prepared email hrefs were inspected; no feedback email, booking, or inquiry was sent. The agency recipient matches the verified sending identity used in the client draft; mailbox delivery was not tested.
+- Verified nested missing-URL recovery and mobile menu Escape behavior. Existing external booking, biography, map and social destinations are unchanged from the earlier verified links.
+- GitHub Pages successfully deployed code commit f28bddabdc3bb990eee1eb9ef5df6a721f94bfb5. Final approval links use ?v=7&review=owner to avoid older locally cached preview HTML.
+
+Final proof: review-proof/audit-desktop.jpg and review-proof/audit-final-page-checks.json. Earlier phone and social screenshots remain alongside them. No live FM website or advertising changes were made.

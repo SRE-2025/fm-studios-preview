@@ -1,5 +1,7 @@
 # FM Studios owner review preview
 
+[Open the website preview](https://sre-2025.github.io/fm-studios-preview/) | [Owner review and feedback](https://sre-2025.github.io/fm-studios-preview/review.html)
+
 A static, responsive website concept for FM Studios Music School. This is a proposed redesign; the live Squarespace site is unchanged.
 
 ## Preview locally

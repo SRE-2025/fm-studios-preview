@@ -1,0 +1,14 @@
+{
+  "source": "FM Studios public website",
+  "images": {
+    "hero": "https://images.squarespace-cdn.com/content/v1/612900ec9894552187b8c61c/abe76a9d-61f3-46e7-807e-f959a55efaaf/SSBTSB-134.jpg?format=1500w",
+    "performance": "https://images.squarespace-cdn.com/content/v1/612900ec9894552187b8c61c/6d280591-37f0-4c39-96db-4d43217161dd/081A4382.jpg?format=1000w",
+    "lesson": "https://images.squarespace-cdn.com/content/v1/612900ec9894552187b8c61c/1024dbd8-d0e3-485c-8e58-fa083c9585a4/zachary.jpg?format=750w",
+    "ensemble": "https://images.squarespace-cdn.com/content/v1/612900ec9894552187b8c61c/39dc021a-39ca-4b3e-ada7-f51773ba087a/20190303_002123948_iOS.jpg?format=1000w",
+    "student": "https://images.squarespace-cdn.com/content/v1/612900ec9894552187b8c61c/370bf9cb-7234-4aac-a39a-2aedc846e990/081A6975.jpg?format=1000w",
+    "frank": "https://images.squarespace-cdn.com/content/v1/612900ec9894552187b8c61c/1630193813507-ILKR6MXRO3VIW0S6LBFI/053A5665.jpg?format=500w",
+    "nadia": "https://images.squarespace-cdn.com/content/v1/612900ec9894552187b8c61c/fcbac345-b9b6-4e25-beb5-d26bcd8333dd/String%2BProject%2BHeadshot%2B-%2BCopy.jpg?format=500w"
+  },
+  "logo": "FM Studios logo supplied from existing public website",
+  "note": "Photo rights and roster should be confirmed by the owner before final production migration."
+}

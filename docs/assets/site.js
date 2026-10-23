@@ -63,10 +63,16 @@
   }
   const feedback = () => subject + '\n\n' + field.value.trim();
   const updateEmail = () => {
-    const body = encodeURIComponent(feedback());
-    const includeBody = body.length <= 6000;
-    email.href = 'mailto:' + recipient + '?subject=' + encodeURIComponent(subject) + (includeBody ? '&body=' + body : '');
+    const body = encodeURIComponent(feedback().replace(/\r?\n/g, '\r\n'));
+    const base = 'mailto:' + recipient + '?subject=' + encodeURIComponent(subject);
+    const full = base + '&body=' + body;
+    const includeBody = full.length <= 1800;
+    email.href = includeBody ? full : base;
     email.dataset.copyRequired = String(!includeBody);
+    email.textContent = includeBody ? 'Open feedback email' : 'Open email (paste notes)';
+    document.querySelector('#review-email-help').textContent = includeBody
+      ? 'Your email app can prepare a draft with your notes. You choose when to send it.'
+      : 'These notes are too long for an email link. Use Copy feedback, open the email, then paste your notes.';
   };
   const save = () => {
     if (canSave) {
@@ -107,10 +113,11 @@
   });
   clear.addEventListener('click', () => {
     field.value = '';
+    let cleared = true;
     try { localStorage.removeItem(key); }
-    catch { storageUnavailable(); }
+    catch { cleared = false; storageUnavailable(); }
     updateEmail();
-    status.textContent = 'Saved notes cleared from this browser.';
+    status.textContent = cleared ? 'Saved notes cleared from this browser.' : 'Notes cleared on this page, but saved notes could not be removed from browser storage.';
     field.focus();
   });
 })();

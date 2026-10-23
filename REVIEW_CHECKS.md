@@ -7,7 +7,7 @@ Owner feedback page: https://sre-2025.github.io/fm-studios-preview/review.html
 Verified on October 23, 2026:
 
 - Opened all 21 hosted HTML pages at desktop width and 390px phone width. Each rendered its expected title and main content without horizontal overflow.
-- Checked 800 link and asset references in the generated files. No missing internal files or fragment targets; each page has one H1, a title, a description, and preview noindex directives.
+- Checked 802 link and asset references in the generated files. No missing internal files or fragment targets; each page has one H1, a title, a description, and preview noindex directives.
 - Confirmed the logo, homepage photography, and instructor photos load in the browser.
 - Tested phone navigation, a FAQ disclosure, empty feedback validation, and feedback copying. The test note was cleared. No feedback is sent to a server.
 - Opened both existing Opus trial booking destinations and the existing inquiry form. No booking or inquiry was submitted. This is navigation verification, not conversion-tracking verification.
@@ -31,3 +31,4 @@ Color and social update, October 23, 2026:
 Public social sources: https://www.instagram.com/fmstudiostx/ and https://www.facebook.com/FMStudiosTX
 
 Official embed references: https://help.instagram.com/620154495870484/ and https://developers.facebook.com/documentation/plugins/page-plugin
+

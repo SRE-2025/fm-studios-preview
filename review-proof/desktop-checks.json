@@ -1,191 +1,233 @@
 [
   {
-    "brokenImages": [],
+    "blue": "#1470af",
     "h1": 1,
-    "main": true,
-    "noindex": true,
-    "overflow": false,
+    "header": "rgb(0, 0, 0)",
+    "noindex": "noindex,nofollow,noarchive",
+    "page": "index.html",
+    "scrollWidth": 1585,
+    "socials": 2,
     "title": "Music Lessons in New Braunfels & Helotes | FM Studios Preview",
-    "url": "https://sre-2025.github.io/fm-studios-preview/index.html"
+    "width": 1600
   },
   {
-    "brokenImages": [],
+    "blue": "#1470af",
     "h1": 1,
-    "main": true,
-    "noindex": true,
-    "overflow": false,
+    "header": "rgb(0, 0, 0)",
+    "noindex": "noindex,nofollow,noarchive",
+    "page": "lessons.html",
+    "scrollWidth": 1585,
+    "socials": 2,
     "title": "Music Lessons & Instruments | FM Studios Preview",
-    "url": "https://sre-2025.github.io/fm-studios-preview/lessons.html"
+    "width": 1600
   },
   {
-    "brokenImages": [],
+    "blue": "#1470af",
     "h1": 1,
-    "main": true,
-    "noindex": true,
-    "overflow": false,
+    "header": "rgb(0, 0, 0)",
+    "noindex": "noindex,nofollow,noarchive",
+    "page": "piano.html",
+    "scrollWidth": 1585,
+    "socials": 2,
     "title": "Piano lessons in New Braunfels & Helotes | FM Studios Preview",
-    "url": "https://sre-2025.github.io/fm-studios-preview/piano.html"
+    "width": 1600
   },
   {
-    "brokenImages": [],
+    "blue": "#1470af",
     "h1": 1,
-    "main": true,
-    "noindex": true,
-    "overflow": false,
+    "header": "rgb(0, 0, 0)",
+    "noindex": "noindex,nofollow,noarchive",
+    "page": "guitarlessons.html",
+    "scrollWidth": 1585,
+    "socials": 2,
     "title": "Acoustic guitar lessons in New Braunfels & Helotes | FM Studios Preview",
-    "url": "https://sre-2025.github.io/fm-studios-preview/guitarlessons.html"
+    "width": 1600
   },
   {
-    "brokenImages": [],
+    "blue": "#1470af",
     "h1": 1,
-    "main": true,
-    "noindex": true,
-    "overflow": false,
+    "header": "rgb(0, 0, 0)",
+    "noindex": "noindex,nofollow,noarchive",
+    "page": "electric-guitar.html",
+    "scrollWidth": 1585,
+    "socials": 2,
     "title": "Electric guitar lessons in New Braunfels & Helotes | FM Studios Preview",
-    "url": "https://sre-2025.github.io/fm-studios-preview/electric-guitar.html"
+    "width": 1600
   },
   {
-    "brokenImages": [],
+    "blue": "#1470af",
     "h1": 1,
-    "main": true,
-    "noindex": true,
-    "overflow": false,
+    "header": "rgb(0, 0, 0)",
+    "noindex": "noindex,nofollow,noarchive",
+    "page": "bass-guitar.html",
+    "scrollWidth": 1585,
+    "socials": 2,
     "title": "Bass guitar lessons in New Braunfels & Helotes | FM Studios Preview",
-    "url": "https://sre-2025.github.io/fm-studios-preview/bass-guitar.html"
+    "width": 1600
   },
   {
-    "brokenImages": [],
+    "blue": "#1470af",
     "h1": 1,
-    "main": true,
-    "noindex": true,
-    "overflow": false,
+    "header": "rgb(0, 0, 0)",
+    "noindex": "noindex,nofollow,noarchive",
+    "page": "violin.html",
+    "scrollWidth": 1585,
+    "socials": 2,
     "title": "Violin lessons in New Braunfels & Helotes | FM Studios Preview",
-    "url": "https://sre-2025.github.io/fm-studios-preview/violin.html"
+    "width": 1600
   },
   {
-    "brokenImages": [],
+    "blue": "#1470af",
     "h1": 1,
-    "main": true,
-    "noindex": true,
-    "overflow": false,
+    "header": "rgb(0, 0, 0)",
+    "noindex": "noindex,nofollow,noarchive",
+    "page": "viola.html",
+    "scrollWidth": 1585,
+    "socials": 2,
     "title": "Viola lessons in New Braunfels & Helotes | FM Studios Preview",
-    "url": "https://sre-2025.github.io/fm-studios-preview/viola.html"
+    "width": 1600
   },
   {
-    "brokenImages": [],
+    "blue": "#1470af",
     "h1": 1,
-    "main": true,
-    "noindex": true,
-    "overflow": false,
+    "header": "rgb(0, 0, 0)",
+    "noindex": "noindex,nofollow,noarchive",
+    "page": "cello.html",
+    "scrollWidth": 1585,
+    "socials": 2,
     "title": "Cello lessons in New Braunfels & Helotes | FM Studios Preview",
-    "url": "https://sre-2025.github.io/fm-studios-preview/cello.html"
+    "width": 1600
   },
   {
-    "brokenImages": [],
+    "blue": "#1470af",
     "h1": 1,
-    "main": true,
-    "noindex": true,
-    "overflow": false,
+    "header": "rgb(0, 0, 0)",
+    "noindex": "noindex,nofollow,noarchive",
+    "page": "upright-bass.html",
+    "scrollWidth": 1585,
+    "socials": 2,
     "title": "Upright bass lessons in New Braunfels & Helotes | FM Studios Preview",
-    "url": "https://sre-2025.github.io/fm-studios-preview/upright-bass.html"
+    "width": 1600
   },
   {
-    "brokenImages": [],
+    "blue": "#1470af",
     "h1": 1,
-    "main": true,
-    "noindex": true,
-    "overflow": false,
+    "header": "rgb(0, 0, 0)",
+    "noindex": "noindex,nofollow,noarchive",
+    "page": "ukulele.html",
+    "scrollWidth": 1585,
+    "socials": 2,
     "title": "Ukulele lessons in New Braunfels & Helotes | FM Studios Preview",
-    "url": "https://sre-2025.github.io/fm-studios-preview/ukulele.html"
+    "width": 1600
   },
   {
-    "brokenImages": [],
+    "blue": "#1470af",
     "h1": 1,
-    "main": true,
-    "noindex": true,
-    "overflow": false,
+    "header": "rgb(0, 0, 0)",
+    "noindex": "noindex,nofollow,noarchive",
+    "page": "locations.html",
+    "scrollWidth": 1585,
+    "socials": 2,
     "title": "Music Lesson Locations | FM Studios Preview",
-    "url": "https://sre-2025.github.io/fm-studios-preview/locations.html"
+    "width": 1600
   },
   {
-    "brokenImages": [],
+    "blue": "#1470af",
     "h1": 1,
-    "main": true,
-    "noindex": true,
-    "overflow": false,
+    "header": "rgb(0, 0, 0)",
+    "noindex": "noindex,nofollow,noarchive",
+    "page": "new-braunfels-music-lessons.html",
+    "scrollWidth": 1585,
+    "socials": 2,
     "title": "Music Lessons in New Braunfels, TX | FM Studios Preview",
-    "url": "https://sre-2025.github.io/fm-studios-preview/new-braunfels-music-lessons.html"
+    "width": 1600
   },
   {
-    "brokenImages": [],
+    "blue": "#1470af",
     "h1": 1,
-    "main": true,
-    "noindex": true,
-    "overflow": false,
+    "header": "rgb(0, 0, 0)",
+    "noindex": "noindex,nofollow,noarchive",
+    "page": "helotes-music-lessons.html",
+    "scrollWidth": 1585,
+    "socials": 2,
     "title": "Music Lessons in Helotes, TX | FM Studios Preview",
-    "url": "https://sre-2025.github.io/fm-studios-preview/helotes-music-lessons.html"
+    "width": 1600
   },
   {
-    "brokenImages": [],
+    "blue": "#1470af",
     "h1": 1,
-    "main": true,
-    "noindex": true,
-    "overflow": false,
+    "header": "rgb(0, 0, 0)",
+    "noindex": "noindex,nofollow,noarchive",
+    "page": "inhomelessons.html",
+    "scrollWidth": 1585,
+    "socials": 2,
     "title": "In-Home Music Lessons in San Antonio | FM Studios Preview",
-    "url": "https://sre-2025.github.io/fm-studios-preview/inhomelessons.html"
+    "width": 1600
   },
   {
-    "brokenImages": [],
+    "blue": "#1470af",
     "h1": 1,
-    "main": true,
-    "noindex": true,
-    "overflow": false,
+    "header": "rgb(0, 0, 0)",
+    "noindex": "noindex,nofollow,noarchive",
+    "page": "ourteam.html",
+    "scrollWidth": 1585,
+    "socials": 2,
     "title": "Meet the Music Instructors | FM Studios Preview",
-    "url": "https://sre-2025.github.io/fm-studios-preview/ourteam.html"
+    "width": 1600
   },
   {
-    "brokenImages": [],
+    "blue": "#1470af",
     "h1": 1,
-    "main": true,
-    "noindex": true,
-    "overflow": false,
+    "header": "rgb(0, 0, 0)",
+    "noindex": "noindex,nofollow,noarchive",
+    "page": "trial-lesson.html",
+    "scrollWidth": 1585,
+    "socials": 2,
     "title": "Book a Music Trial Lesson | FM Studios Preview",
-    "url": "https://sre-2025.github.io/fm-studios-preview/trial-lesson.html"
+    "width": 1600
   },
   {
-    "brokenImages": [],
+    "blue": "#1470af",
     "h1": 1,
-    "main": true,
-    "noindex": true,
-    "overflow": false,
+    "header": "rgb(0, 0, 0)",
+    "noindex": "noindex,nofollow,noarchive",
+    "page": "contact-us.html",
+    "scrollWidth": 1585,
+    "socials": 2,
     "title": "Contact FM Studios Music School | Website Preview",
-    "url": "https://sre-2025.github.io/fm-studios-preview/contact-us.html"
+    "width": 1600
   },
   {
-    "brokenImages": [],
+    "blue": "#1470af",
     "h1": 1,
-    "main": true,
-    "noindex": true,
-    "overflow": false,
+    "header": "rgb(0, 0, 0)",
+    "noindex": "noindex,nofollow,noarchive",
+    "page": "accelerated-strings-lab.html",
+    "scrollWidth": 1585,
+    "socials": 2,
     "title": "Accelerated Strings Lab | FM Studios Preview",
-    "url": "https://sre-2025.github.io/fm-studios-preview/accelerated-strings-lab.html"
+    "width": 1600
   },
   {
-    "brokenImages": [],
+    "blue": "#1470af",
     "h1": 1,
-    "main": true,
-    "noindex": true,
-    "overflow": false,
+    "header": "rgb(0, 0, 0)",
+    "noindex": "noindex,nofollow,noarchive",
+    "page": "review.html",
+    "scrollWidth": 1585,
+    "socials": 2,
     "title": "Owner Review | FM Studios Website Preview",
-    "url": "https://sre-2025.github.io/fm-studios-preview/review.html"
+    "width": 1600
   },
   {
-    "brokenImages": [],
+    "blue": "#1470af",
     "h1": 1,
-    "main": true,
-    "noindex": true,
-    "overflow": false,
+    "header": "rgb(0, 0, 0)",
+    "noindex": "noindex,nofollow,noarchive",
+    "page": "404.html",
+    "scrollWidth": 1585,
+    "socials": 2,
     "title": "Page Not Found | FM Studios Preview",
-    "url": "https://sre-2025.github.io/fm-studios-preview/404.html"
+    "width": 1600
   }
 ]

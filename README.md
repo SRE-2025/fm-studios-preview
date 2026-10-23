@@ -12,11 +12,11 @@ Serve `docs/` with a static HTTP server and open `index.html`. The site needs no
 
 ## GitHub Pages
 
-Publish from branch `main`, folder `/docs`. No custom domain is configured. Every page carries noindex/nofollow/noarchive; robots.txt disallows crawling. These are search directives, not access controls.
+Publish from branch `main`, folder `/docs`. No custom domain is configured. Every page carries noindex/nofollow/noarchive. The project-folder robots.txt is retained, but only host-root robots.txt controls crawling; page metadata provides the preview indexing directive. These are search directives, not access controls.
 
 ## Owner approval
 
-Open `review.html` for the feedback page. Feedback is copied locally; it is not sent or stored on a server. Booking and inquiry links point to the school’s existing live Opus system. No analytics, advertising tags or payment integration are installed in this preview.
+Open `review.html` for the feedback page. Feedback notes persist in this browser until cleared. Copy and a prepared email link are available; no feedback is sent automatically or stored on a server. Booking and inquiry links point to the school’s existing live Opus system. No analytics, advertising tags or payment integration are installed in this preview.
 
 ## Brand and social displays
 

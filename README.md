@@ -20,7 +20,7 @@ Open `review.html` for the feedback page. Feedback is copied locally; it is not 
 
 ## Brand and social displays
 
-The original FM palette is blue #1470af, black, white, and gray #eaeaee, verified from the live school website on October 23, 2026. The homepage uses Instagram's public profile embed and Facebook's public Page plugin, with direct profile links and fallbacks. The public embeds load content from Meta; they do not give this site account access. Elite Foot & Ankle uses the Smash Balloon WordPress Instagram feed plugin; that plugin cannot be installed on a static GitHub Pages site. This preview uses Meta's own embed presentation instead.
+The original FM palette is blue #1470af, black, white, and gray #eaeaee, verified from the live school website on October 23, 2026. The homepage uses Instagram's public profile embed and a Facebook profile card, with direct profile links and fallbacks. The public embeds load content from Meta; they do not give this site account access. Elite Foot & Ankle uses the Smash Balloon WordPress Instagram feed plugin; that plugin cannot be installed on a static GitHub Pages site. This preview uses Meta's own embed presentation instead.
 
 ## Before production migration
 

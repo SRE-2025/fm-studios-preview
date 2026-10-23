@@ -1,4 +1,23 @@
 (() => {
+  const facebookFrame = document.querySelector('.facebook-slot iframe');
+  if (facebookFrame) {
+    let resizeTimer;
+    const fitFacebook = () => {
+      const width = Math.min(500, Math.floor(facebookFrame.parentElement.clientWidth));
+      if (width < 180) return;
+      const url = new URL(facebookFrame.src);
+      if (url.searchParams.get('width') === String(width)) return;
+      url.searchParams.set('width', String(width));
+      facebookFrame.src = url.toString();
+    };
+    fitFacebook();
+    if ('ResizeObserver' in window) {
+      new ResizeObserver(() => {
+        clearTimeout(resizeTimer);
+        resizeTimer = setTimeout(fitFacebook, 200);
+      }).observe(facebookFrame.parentElement);
+    }
+  }
   const menu = document.querySelector('.menu-toggle');
   const nav = document.querySelector('#site-navigation');
   const close = () => { menu?.setAttribute('aria-expanded', 'false'); nav?.classList.remove('open'); };

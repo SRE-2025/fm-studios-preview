@@ -1,6 +1,8 @@
 # FM Studios owner review preview
 
-[Open the website preview](https://sre-2025.github.io/fm-studios-preview/) | [Owner review and feedback](https://sre-2025.github.io/fm-studios-preview/review.html)
+Published preview: https://sre-2025.github.io/fm-studios-preview/
+
+Owner feedback: https://sre-2025.github.io/fm-studios-preview/review.html
 
 A static, responsive website concept for FM Studios Music School. This is a proposed redesign; the live Squarespace site is unchanged.
 
@@ -15,6 +17,10 @@ Publish from branch `main`, folder `/docs`. No custom domain is configured. Ever
 ## Owner approval
 
 Open `review.html` for the feedback page. Feedback is copied locally; it is not sent or stored on a server. Booking and inquiry links point to the school’s existing live Opus system. No analytics, advertising tags or payment integration are installed in this preview.
+
+## Brand and social displays
+
+The original FM palette is blue #1470af, black, white, and gray #eaeaee, verified from the live school website on October 23, 2026. The homepage uses Instagram's public profile embed and Facebook's public Page plugin, with direct profile links and fallbacks. The public embeds load content from Meta; they do not give this site account access. Elite Foot & Ankle uses the Smash Balloon WordPress Instagram feed plugin; that plugin cannot be installed on a static GitHub Pages site. This preview uses Meta's own embed presentation instead.
 
 ## Before production migration
 

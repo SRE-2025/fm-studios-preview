@@ -11,7 +11,7 @@
 
 /* Original FM Studios palette, verified against the live school website. */
 .site-header{background:#000;color:#fff}.header-inner{border-color:#333}
-.brand img,.site-footer .footer-brand img{mix-blend-mode:normal;filter:brightness(0) invert(1)}
+.brand img,.site-footer .footer-brand img{mix-blend-mode:screen;filter:invert(1)}
 .brand>span{border-color:#666}.nav-link:hover,.nav-link.active{color:#fff;text-decoration-color:#fff;text-underline-offset:7px}
 .site-header :focus-visible,.site-footer :focus-visible{outline-color:#fff}
 .menu-toggle{color:#fff}.menu-lines,.menu-lines:after{background:#fff}

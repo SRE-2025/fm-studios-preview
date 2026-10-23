@@ -1,4 +1,13 @@
 (() => {
+  const instagramSlot = document.querySelector('.instagram-slot');
+  if (instagramSlot) {
+    const titleInstagram = () => {
+      const frame = instagramSlot.querySelector('iframe');
+      if (frame) frame.title = 'FM Studios Music School Instagram profile and recent posts';
+    };
+    new MutationObserver(titleInstagram).observe(instagramSlot, {childList: true, subtree: true});
+    titleInstagram();
+  }
   const facebookFrame = document.querySelector('.facebook-slot iframe');
   if (facebookFrame) {
     let resizeTimer;
